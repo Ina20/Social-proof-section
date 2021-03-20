@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Ina20/Social-proof-section
-- Live Site URL:
+- Live Site URL: https://social-proof-section-phi-ashy.vercel.app/
 
 ## My process
 
