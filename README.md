@@ -1,4 +1,4 @@
-# Frontend Mentor - Huddle landing page with single introductory section solution
+# Frontend Mentor - Social proof section
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Ina20/Social-proof-section
-- Live Site URL: 
+- Live Site URL:
 
 ## My process
 
